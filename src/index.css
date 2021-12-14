@@ -57,8 +57,8 @@ li {
 }
 
 .common-img img {
-  width: 100% !important;
-  height: 100% !important;
+  width: 600px !important;
+  height: 500px !important;
 }
 
 .common h1::before {
@@ -231,7 +231,7 @@ li {
 
 .service_grid {
   height: 400px;
-  width: 100%;
+/*   width: 100%; */
   position: relative;
   transition: 0.5s;
   border-radius: 15px;
