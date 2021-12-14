@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Vision-Capital/static/css/main.89eb103b.chunk.css",
+    "main.js": "/Vision-Capital/static/js/main.c9acf004.chunk.js",
+    "main.js.map": "/Vision-Capital/static/js/main.c9acf004.chunk.js.map",
+    "runtime-main.js": "/Vision-Capital/static/js/runtime-main.7355d72e.js",
+    "runtime-main.js.map": "/Vision-Capital/static/js/runtime-main.7355d72e.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Vision-Capital/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9808bf86.chunk.js": "/Vision-Capital/static/js/2.9808bf86.chunk.js",
+    "static/js/2.9808bf86.chunk.js.map": "/Vision-Capital/static/js/2.9808bf86.chunk.js.map",
+    "index.html": "/Vision-Capital/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Vision-Capital/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.89eb103b.chunk.css.map": "/Vision-Capital/static/css/main.89eb103b.chunk.css.map",
+    "static/js/2.9808bf86.chunk.js.LICENSE.txt": "/Vision-Capital/static/js/2.9808bf86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7355d72e.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9808bf86.chunk.js",
+    "static/css/main.89eb103b.chunk.css",
+    "static/js/main.c9acf004.chunk.js"
+  ]
+}
